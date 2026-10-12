@@ -1,0 +1,24 @@
+# R project files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+
+out/
+target/
+build/
+compiled_classes_test_build/
+*.rar
+__pycache__/
+.venv*/
+venv*/
+.vscode/
+.idea/
